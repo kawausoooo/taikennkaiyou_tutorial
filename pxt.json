@@ -14,8 +14,8 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "1.7.28",
-        "targetId": "minecraft"
+        "target": "6.0.25",
+        "targetId": "microbit"
     },
     "supportedTargets": [
         "minecraft"
