@@ -22,3 +22,9 @@ MakeCode でこのリポジトリを編集します。
 
 * for PXT/minecraft
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+
+...
+
+* [チュートリアル](/smiley-frowney/tutorial) [開始](https://minecraft.makecode.com/#tutorial:github:kawausoooo/taikennkaiyou_tutorial/tutorial)
+
+...
